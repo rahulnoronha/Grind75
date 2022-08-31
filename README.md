@@ -3,8 +3,8 @@ https://www.techinterviewhandbook.org/grind75 -> Practice for coding interview q
 
 - [x] **1. Two Sum**
 - [x] **2. Validate Parentheses**
-- [x] **3.Merge Two Sorted Lists**
-- [ ] **4.**
+- [x] **3. Merge Two Sorted Lists**
+- [x] **4. Best Time to Buy and Sell Stock**
 - [ ] **5.**
 - [ ] **6.**
 - [ ] **7.**
