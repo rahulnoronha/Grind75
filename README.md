@@ -5,7 +5,7 @@ https://www.techinterviewhandbook.org/grind75 -> Practice for coding interview q
 - [x] **2. Validate Parentheses**
 - [x] **3. Merge Two Sorted Lists**
 - [x] **4. Best Time to Buy and Sell Stock**
-- [ ] **5.**
+- [x] **5. Valid Palindrome**
 - [ ] **6.**
 - [ ] **7.**
 - [ ] **8.**
