@@ -10,7 +10,7 @@ https://www.techinterviewhandbook.org/grind75 -> Practice for coding interview q
 - [x] **7. Valid Anagram**
 - [x] **8. Binary Search**
 - [x] **9. Flood Fill**
-- [ ] **10.** 
+- [x] **10.Maximum Subarray** 
 - [ ] **11.** 
 - [ ] **12.**
 - [ ] **13.** 
