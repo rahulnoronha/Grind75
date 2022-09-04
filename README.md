@@ -6,7 +6,7 @@ https://www.techinterviewhandbook.org/grind75 -> Practice for coding interview q
 - [x] **3. Merge Two Sorted Lists**
 - [x] **4. Best Time to Buy and Sell Stock**
 - [x] **5. Valid Palindrome**
-- [ ] **6.**
+- [x] **6. Invert Binary Tree**
 - [ ] **7.**
 - [ ] **8.**
 - [ ] **9.**
